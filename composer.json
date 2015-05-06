@@ -1,5 +1,6 @@
 {
   "name": "pspychalski/debug",
+  "license": "MIT"
   "description": "Unify PHP way of handling errors and exceptions. Just convert everything into exception.",
   "require": {
     "php": ">=5.3.0"
