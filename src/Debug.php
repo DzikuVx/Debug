@@ -1,6 +1,6 @@
 <?php
 
-namespace pspychalski;
+namespace psDebug;
 
 /**
  * Debugging and error handling support class

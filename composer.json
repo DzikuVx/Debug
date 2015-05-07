@@ -12,5 +12,10 @@
             "homepage": "http://shtr.eu",
             "role": "Developer"
         }
-    ]
+    ],
+  "autoload": {
+    "psr-4": {
+      "psDebug\\": "src"
+    }
+  }
 }
