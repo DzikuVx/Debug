@@ -1,6 +1,6 @@
 <?php
 
-namespace DzikuVx;
+namespace pspychalski;
 
 /**
  * Debugging and error handling support class
